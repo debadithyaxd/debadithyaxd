@@ -19,10 +19,9 @@
 
 <br>
 
-[my github stats]
-
+[my github stats]<br><br>
 <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=DREXYOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true"></code>
 
-[top Langs i uss]<br><br>
+[languages i use]<br><br>
 <code><img height="100"
 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DREXYOP&theme=radical&layout=compact"></code>
