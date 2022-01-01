@@ -19,10 +19,10 @@
 
 <br>
 
-[DREXY's github stats]
+[my github stats]
 
 <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=DREXYOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true"></code>
 
-[Top Langs]<br>
+[top Langs i uss]<br><br>
 <code><img height="100"
 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DREXYOP&theme=radical&layout=compact"></code>
