@@ -15,7 +15,7 @@
 > - 🌱 I’m currently learning Java and NodeJS <br>
 > - 📫 Please contact me through discord to reach me.<br>
 > - ▶️ DISCORD ID : [- D R E X Y🥀#5668](https://discord.com/users/875422184867233895)<br>
-> - ▶️ INSTA ID :[mr.d_r_e_x_y](https://www.instagram.com/mr.d_r_e_x_y/)
+> - ▶️ INSTA ID : [mr.d_r_e_x_y](https://www.instagram.com/mr.d_r_e_x_y/)
 > - 💬 Ask me about NODE.JS and PYTHON
 
 **Languages and Tools:**  
