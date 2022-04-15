@@ -7,6 +7,11 @@
 **Talking about Personal Stuffs:**
 
 > - 👨🏽‍💻 I’m just a kid, who is learning to code and help people <br>
+> - 👨🏽‍ Discord bot developer. <br>
+> - 👨🏽‍ Head-Developer and Owner of **[Beatz](https://dsc.gg/beatz-on-top)** <br>
+> - 👨🏽‍ Backend developer and support staff of melody music bot(35k+ guilds)<br>
+> - 👨🏽‍ Support staff at aqua music bot <br>
+> - 👨🏽‍ Backend **API** developer <br>
 > - 🌱 I’m currently learning Java and NodeJS <br>
 > - 📫 Please contact me through discord to reach me.<br>
 > - ▶️ DISCORD ID : [❥ζ͜͡ 𝐃𝐫𝐞𝐱𝐲×͜×⭒࿐](https://discord.com/users/875422184867233895)<br>
@@ -15,7 +20,7 @@
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 
 <br>
 
