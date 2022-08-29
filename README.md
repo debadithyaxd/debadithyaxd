@@ -8,13 +8,10 @@
 
 > - 👨🏽‍💻 I’m just a kid, who is learning to code and help people <br>
 > - 👨🏽‍ Discord bot developer. <br>
-> - 👨🏽‍ Head-Developer and Owner of **[Beatz](https://dsc.gg/beatz-on-top)** <br>
-> - 👨🏽‍ Backend developer and support staff of melody music bot(35k+ guilds)<br>
-> - 👨🏽‍ Support staff at aqua music bot <br>
 > - 👨🏽‍ Backend **API** developer <br>
 > - 🌱 I’m currently learning Java and NodeJS <br>
 > - 📫 Please contact me through discord to reach me.<br>
-> - ▶️ DISCORD ID : [- D R E X Y🥀#5668](https://discord.com/users/875422184867233895)<br>
+> - ▶️ DISCORD ID : [- D R E X Y🥀#5668](https://discord.com/users/983787597627273267)<br>
 > - ▶️ INSTA ID : [mr.d_r_e_x_y](https://www.instagram.com/mr.d_r_e_x_y/)
 > - 💬 Ask me about NODE.JS and PYTHON
 
