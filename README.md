@@ -21,7 +21,8 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 
 
-
+<br>
+</br>
 ***[my github stats]***<br><br>
 <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=DREXYOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <br>
@@ -29,3 +30,4 @@
 ***[languages i use]***<br><br>
 <code><img height="100"
 src ="https://github-readme-stats.vercel.app/api/top-langs/?username=DREXYOP&theme=radical&layout=compact"></code>
+</br>
