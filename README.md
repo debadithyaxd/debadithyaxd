@@ -24,7 +24,7 @@
 
 
 <br>
-***my github stats***<br><br>
+***[my github stats]***<br><br>
 <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=DREXYOP&show_icons=true&theme=radical&count_private=true&include_all_commits=true"></code>
 
 ***[languages i use]***<br><br>
