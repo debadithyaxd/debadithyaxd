@@ -7,11 +7,10 @@
 **Talking about Personal Stuffs:**
 
 > - 👨🏽‍💻 I’m just a kid, who is learning to code and help people <br>
-> - 👨🏽‍ Discord bot developer. <br>
-> - 👨🏽‍ Backend **API** developer <br>
-> - 🌱 I’m currently learning Java and NodeJS <br>
+> - 👨🏽‍💻 FullStack developer. <br>
+> - 🌱 currently learning Java and Python <br>
 > - 📫 Please contact me through discord to reach me.<br>
-> - ▶️ DISCORD ID : [Drexy_xD#1598](https://discord.com/users/983787597627273267)<br>
+> - ▶️ DISCORD ID : [drexy_xd#1598](https://discord.com/users/983787597627273267)<br>
 > - ▶️ INSTA ID : [mr.d_r_e_x_y](https://www.instagram.com/mr.d_r_e_x_y/)
 > - 💬 Ask me about NODE.JS and PYTHON
 
