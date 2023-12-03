@@ -6,8 +6,8 @@
 
 **Talking about Personal Stuffs:**
 
-> - 👨🏽‍💻 I’m just a kid, who is learning to code and help people <br>
 > - 👨🏽‍💻 FullStack developer. <br>
+> - 👨🏽‍💻 Cyber Security expert. <br>
 > - 🌱 currently learning Java and Python <br>
 > - 📫 Please contact me through discord to reach me.<br>
 > - ▶️ DISCORD ID : [drexy_xd#1598](https://discord.com/users/983787597627273267)<br>
