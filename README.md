@@ -10,8 +10,8 @@
 > - 👨🏽‍💻 Cyber Security expert. <br>
 > - 🌱 currently learning Java and Python <br>
 > - 📫 Please contact me through discord to reach me.<br>
-> - ▶️ DISCORD ID : [drexy_xd#1598](https://discord.com/users/983787597627273267)<br>
-> - ▶️ INSTA ID : [mr.d_r_e_x_y](https://www.instagram.com/mr.d_r_e_x_y/)
+> - ▶️ DISCORD ID : [drexy_xd](https://discord.com/users/983787597627273267)<br>
+> - ▶️ INSTA ID : [debadithya_xd](https://www.instagram.com/debadithya_xd/)
 > - 💬 Ask me about NODE.JS and PYTHON
 
 
