@@ -4,6 +4,10 @@
 
 <img height="250" align="" alt="GIF" src="https://c.tenor.com/1mwdqr51emcAAAAM/test-typing.gif" />
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/brblacky/count.svg?"  />
+</div>
+
 **Talking about Personal Stuffs:**
 
 > - 👨🏽‍💻 FullStack developer. <br>
