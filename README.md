@@ -15,3 +15,6 @@
 > - ▶️ DISCORD ID : [drexy_xd](https://discord.com/users/983787597627273267)<br>
 > - ▶️ INSTA ID : [debadithya_xd](https://www.instagram.com/debadithya_xd/)
 > - 💬 Ask me about NODE.JS and PYTHON
+
+
+[![](https://visitcount.itsvg.in/api?id=DREXYOP&label=Profile%20Views&color=6&icon=1&pretty=true)](https://visitcount.itsvg.in)
